@@ -2,6 +2,7 @@
 <title>Viktor Nazarenko's Git Achievements</title>
 <description></description>
 <link></link>
+<item><title>Cherry Picker</title><description>Used git cherry-pick to add a sha from another branch into the current branch.</description></item>
 <item><title>Banker (Level 5)</title><description>Join two or more development histories together with git merge.</description></item>
 <item><title>Banker (Level 4)</title><description>Join two or more development histories together with git merge.</description></item>
 <item><title>Apprentice Blacksmith (Level 3)</title><description>Created a branch using git checkout -b.</description></item>
